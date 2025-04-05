@@ -1,4 +1,4 @@
-# Data Science Mini-Projects
+# Data Science Project Collection
 
 A collection of data science projects showcasing various techniques, tools, and datasets. These mini-projects are designed for learning, experimentation, and portfolio-building.
 
